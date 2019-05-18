@@ -1,0 +1,26 @@
+ [
+    {
+        "id": 1,
+        "countryId":1,
+        "name":"Jhapa",
+        "value":1
+    },
+    {
+        "id": 2,
+        "countryId":1,
+        "name":"Morang",
+        "value":2
+    },
+    {
+        "id": 3,
+        "countryId":2,
+        "name":"Siliguri",
+        "value":3
+    },
+    {
+        "id": 4,
+        "countryId":2,
+        "name":"Delhi",
+        "value":4
+    }
+]

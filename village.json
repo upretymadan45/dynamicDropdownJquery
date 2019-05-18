@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "stateId":1,
+        "name":"Jhapa Village",
+        "value":1
+    },
+    {
+        "id":2,
+        "stateId":2,
+        "name":"Morang Village",
+        "value":2
+    },
+    {
+        "id":3,
+        "stateId":3,
+        "name":"Siliguri Village",
+        "value":3
+    },
+    {
+        "id":4,
+        "stateId":4,
+        "name":"Delhi Village",
+        "value":4
+    }
+]
